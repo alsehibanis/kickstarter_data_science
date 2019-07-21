@@ -10,7 +10,7 @@
 ### Overview
 This project is part of Udacity's Data Science Nanodegree.  This project aims to apply the data science skills and the CRISP-DM methodology to analyze Kickstarter project data from Kaggle by **Mickaël Mouillé**.
 
-This projects is the aims to answer the question in the [blog post](https://alsehibanis.github.io/datascience/2019/07/20/kickstarter-data-science.html)
+This aims to answer the questions in the [blog post](https://alsehibanis.github.io/datascience/2019/07/20/kickstarter-data-science.html)
 
 <a name="projectStructure"></a>
 ### Project Structure
